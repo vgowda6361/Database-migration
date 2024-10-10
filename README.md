@@ -14,6 +14,7 @@ This project is a C# Console Application that facilitates the migration of data 
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download) (v6.0 or later)
 - Nuget Packages ( Npgsql , System.Data.SqlClient )
+- Need to create Schema using Entity Framework or SQL Server
 
 ## Getting Started
 
