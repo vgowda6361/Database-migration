@@ -13,8 +13,7 @@ This project is a C# Console Application that facilitates the migration of data 
 ## Prerequisites
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download) (v6.0 or later)
-- MS SQL Server (source database)
-- PostgreSQL (destination database)
+- Nuget Packages ( Npgsql , System.Data.SqlClient )
 
 ## Getting Started
 
