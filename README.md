@@ -21,5 +21,5 @@ This project is a C# Console Application that facilitates the migration of data 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/database-migration.git
+git clone https://github.com/vgowda6361/Database-migration.git
 cd database-migration
